@@ -1,7 +1,8 @@
 <template>
   <div class="home">
     <GoogleMap />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+
+    <HelloWorld />
   </div>
 </template>
 
